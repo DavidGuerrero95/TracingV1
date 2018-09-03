@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Tracing V1</string>
+    <string name="Tracing">Login</string>
+    <string name="correo">example@tracing.com</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="aceptar">Iniciar</string>
+    <string name="registro">Crear Cuenta</string>
+    <string name="repcontraseña">Repetir Contraseña</string>
+    <string name="perfil">Mi Perfil</string>
+    <string name="sesion">Cerrar Sesion</string>
+    <string name="titulo">Datos del Usuario</string>
+    <string name="principal">Principal</string>
+    <string name="login">Tracing</string>
+    <string name="continuar">Continuar</string>
+    <string name="mail">Correo:</string>
+    <string name="image">Logo Tracing</string>
+    <string name="descripcion">Mejorar la seguridad de tu hogar, mediante nuestro sistema de georreferenciacion.</string>
+</resources>
